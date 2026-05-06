@@ -41,27 +41,21 @@ void draw()
   ellipse(600, 360, 3, 3);
   ellipse(350, 300, 3, 3);
   ellipse(450, 250, 3, 3);
- 
+
   //moon thing
   fill(255, 255, 220);
   ellipse(650, 80, 70, 70);
-  
   // house thing
   fill(90, 55, 30);
   rect(150, 350, 200, 200); 
-  
   fill(60, 30, 10);
   triangle(130, 350, 250, 250, 370, 350); 
-  
   fill(255, 230, 150);
   rect(180, 400, 40, 40);
-  
-  
   fill(60, 30, 10); 
   rect(260, 450, 40, 100);
   fill(200, 180, 50);
   ellipse(290, 500, 5, 5);
-
   // person thing
   fill(255); 
   ellipse(500, 510, 15, 15); // Head
